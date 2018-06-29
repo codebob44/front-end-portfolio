@@ -1,0 +1,27 @@
+.container {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-flow: row wrap;
+        flex-flow: row wrap;
+        text-align: center;
+      }
+
+.header, .hero, .main, .footer {
+        width: 100%;
+}
+
+.header {
+    /*text-align: center;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+.featured-item {
+        
+}
+
+img.featured-img {
+  width: 100%;
+}
